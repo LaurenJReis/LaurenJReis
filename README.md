@@ -24,7 +24,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-9D4EDD?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-5A189A?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/BI-7B2CBF?style=for-the-badge&logo=powerbi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Governança%20de%20TI-5A189A?style=for-the-badge"/>
