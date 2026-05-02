@@ -2,31 +2,36 @@
 
 <p align="center">
   💻 Estudante de Tecnologia <br>
-  🚀 Focada em desenvolvimento e dados <br>
-  🎯 Em constante evolução na área de TI
+  ☁️ Focada em Cloud, Desenvolvimento e Dados <br>
+  🚀 Construindo experiência prática na área de TI <br>
+  🎯 Em constante evolução na area de TI
 </p>
 
 ---
 
 ## 💜 Sobre mim
-- 🎓 Estudante de tecnologia
-- 💡 Interesse em desenvolvimento e análise de dados
-- 🧠 Atualmente aprendendo:
-  - Java ☕
-  - C# 💻
-  - Governança de TI 🏢
-  - Business Intelligence 📊
-- 🚀 Buscando minha novas oportunidade na área
+
+🎓 Estudante de tecnologia focada em construir uma carreira sólida na área de TI  
+💡 Interesse em desenvolvimento de sistemas, análise de dados e computação em nuvem  
+🧠 Atualmente aprofundando conhecimentos em:
+
+- Java ☕  
+- AWS ☁️  
+- Governança de TI 🏢  
+- Business Intelligence 📊  
+
+🚀 Buscando oportunidade para aplicar meus conhecimentos na prática e evoluir profissionalmente
 
 ---
 
 ## 🚀 Tecnologias e conhecimentos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-5A189A?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BI-7B2CBF?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Governança%20de%20TI-5A189A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-7B2CBF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-5A189A?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5A189A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-7B2CBF?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-5A189A?style=for-the-badge"/>
 </p>
 
 ---
