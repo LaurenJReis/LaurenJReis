@@ -4,7 +4,7 @@
   💻 Estudante de Tecnologia <br>
   ☁️ Focada em Cloud, Desenvolvimento e Dados <br>
   🚀 Construindo experiência prática na área de TI <br>
-  🎯 Em constante evolução na area de TI
+  🎯 Em constante evolução na área de TI
 </p>
 
 ---
@@ -27,24 +27,29 @@
 ## 🚀 Tecnologias e conhecimentos
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-5A189A?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-7B2CBF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-5A189A?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-5A189A?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-7B2CBF?style=for-the-badge&logo=internetofthings&logoColor=white"/>
   <img src="https://img.shields.io/badge/MQTT-5A189A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Governan%C3%A7a%20de%20TI-7B2CBF?style=for-the-badge"/>
 </p>
+
+---
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LaurenJReis&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LaurenJReis&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenJReis&layout=compact&theme=midnight-purple&hide_border=true"/>
+
 </p>
 
 ---
-
 ## 🔥 Sequência de commits
 
 <p align="center">
@@ -56,7 +61,7 @@
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/lauren-reis">
     <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
